@@ -45,9 +45,4 @@ I'm open to collaborations on projects related to cybersecurity, software develo
 
 ---
 
-Feel free to use this template in your README.md file on GitHub. Make sure to replace the URLs and information with your own. If you have any specific projects or details you'd like to highlight, please let me know!
 
-<!---
-S-o-b-u/S-o-b-u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
