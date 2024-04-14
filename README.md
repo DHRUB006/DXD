@@ -25,10 +25,8 @@ In addition to my technical skills, I also have experience in extracting and rip
 ### [Ripping Channel](https://tx.me/DHRUBDXD)
 Join my OTT Extracting/Ripping channel for discussions on cybersecurity, development and updates on OTT content extraction/ripping!
 
-### [Ripped Contents with Search Engine](https://dhrub-dxd.dhrubajyotis006.workers.dev/)
-Access my collection of OTT content I've extracted/ripped using this search engine. Use the following credentials to log in:
-- **Username**: DHRUB_DXD
-- **Password**: dhrub006
+### [Ripped Contents with Search Engine](https://drive.dhrubdxd.com)
+Access my collection of OTT content I've extracted/ripped using this search engine.
 
 ## How to Reach Me
 
@@ -37,7 +35,7 @@ Access my collection of OTT content I've extracted/ripped using this search engi
 
 ## Other Platforms
 
-Check out my [vCard Profile](https://dhrub006.github.io/vCardProfileByDXD/) for additional ways to connect with me.
+Check out my [vCard Profile](https://dhrubdxd.com) for additional ways to connect with me.
 
 ## Collaboration
 
