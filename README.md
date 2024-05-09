@@ -1,6 +1,6 @@
 # DXD Cybersecurity Engineer, Developer, and OTT Content Enthusiast!
 
-<img src="https://iili.io/J3xxppI.png" alt="DXD" width="200"/>
+<img src="https://iili.io/Jrem6kN.png" alt="DXD" width="200"/>
 
 👋 Hi, I’m [@DHRUB006](https://github.com/DHRUB006) (DXD), a passionate Cybersecurity Engineer and Developer with expertise in C, C++, Python, HTML, CSS, and JavaScript!
 
